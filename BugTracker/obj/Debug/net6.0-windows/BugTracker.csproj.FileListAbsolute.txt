@@ -1,0 +1,8 @@
+D:\78576\BugTracker\obj\Debug\net6.0-windows\BugTracker.csproj.AssemblyReference.cache
+D:\78576\BugTracker\obj\Debug\net6.0-windows\LoginSinDB.Form1.resources
+D:\78576\BugTracker\obj\Debug\net6.0-windows\BugTracker.csproj.GenerateResource.cache
+D:\78576\BugTracker\obj\Debug\net6.0-windows\BugTracker.GeneratedMSBuildEditorConfig.editorconfig
+D:\78576\BugTracker\obj\Debug\net6.0-windows\BugTracker.AssemblyInfoInputs.cache
+D:\78576\BugTracker\obj\Debug\net6.0-windows\BugTracker.AssemblyInfo.cs
+D:\78576\BugTracker\obj\Debug\net6.0-windows\BugTracker.csproj.CoreCompileInputs.cache
+D:\78576\BugTracker\obj\Debug\net6.0-windows\BugTracker.Form1.resources
