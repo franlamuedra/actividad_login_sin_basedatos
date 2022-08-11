@@ -1,4 +1,4 @@
-namespace LoginSinDB
+namespace BugTracker
 {
     public partial class Form1 : Form
     {

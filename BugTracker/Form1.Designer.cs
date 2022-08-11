@@ -1,4 +1,4 @@
-﻿namespace LoginSinDB
+﻿namespace BugTracker
 {
     partial class Form1
     {
